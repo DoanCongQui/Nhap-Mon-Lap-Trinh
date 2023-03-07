@@ -3,6 +3,9 @@ using namespace std;
 
 int main ()
 {
-    cout <<"Hello wordl !\n";
+    int n;
+    cout <<"n = ";
+    cin >> n;
+    cout << n + n ;
     return 0;
 }
