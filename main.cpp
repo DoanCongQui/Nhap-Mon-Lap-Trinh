@@ -1,10 +1,7 @@
 #include <iostream>
-#include <iterator>
-using namespace std ;
-int main() {
-  int n;
-  cout << "n = ";
-  cin >> n;
-  cout << n + n;
+using namespace std;
+
+int main (){
+  cout <<"Hello\n";
   return 0;
 }
